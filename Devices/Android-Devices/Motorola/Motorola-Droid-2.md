@@ -12,7 +12,7 @@ If you still want to keep going, lube up, follow the guidelines to the letter, a
   * You need to take a lot of time to fully understand everything you are doing with this phone, and follow all guidelines closely. You also need to be patient; very, very patient. Flashes can take upwards of 10 minutes to complete.
 * A Motorola Droid 2 (A955)
   * Make sure that your Droid 2 is the A955, not Droid 2 Global (A966)
-* A POSIX (Mac, Linux, Unix system up and ready
+* A POSIX (Mac, Linux, Unix system up and ready)
   * The truth is, Windows sucks for development of any kind, and we absolutely do not want to take chances with bad drivers on your precious phone. Anyway, the  Windows methods are more difficult as well as less safe. If you don't have Linux or a Mac already, get the Ubuntu liveCD or the Droid flasher liveCD (explained below).
 * Android SDK Platform Tools
   * This provides adb, fastboot, and other useful tools to interact with your Android's inner workings. If you don't have it or are not using the Droid flasher liveCD, check the **Android SDK Guide** to find out how to install it.
