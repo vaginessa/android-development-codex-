@@ -15,6 +15,11 @@ These are Android devices that Google supported, designed, or otherwise used as 
 * [[Motorola Droid]] (OGDR) - **Status:** Under Construction
 * [[HTC Dream/T-Mobile G1|HTC Dream|]] (G1) - **Status:**
 
+### Sony
+
+* [[Sony Xperia Z2]]
+* [[Sony Xperia Z]]
+
 ### HTC
 
 HTC is a young Taoyuan, Taiwan based smartphone company that started out as a no-name brand designing the first Pocket PCs. HTC later became one of the hottest brands for creating the first and the best Android smartphones, at least for a while.
