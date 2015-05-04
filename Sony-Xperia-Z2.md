@@ -12,4 +12,5 @@ My Sony Xperia Z2 was already rooted (but still has locked bootloader engaged). 
 
 1. Install [XZDualRecovery](http://forum.xda-developers.com/showthread.php?t=2785598).
 2. Find an FTF for your device on [this XDA Thread.](http://forum.xda-developers.com/showthread.php?t=2759934)
+  * You can use different customizations as long as the Model ID is the same (ex. on D6503, unbranded UK on branded phone, Hong Kong on Taiwan phone). Though if you do this, it might be advantageous to backup and wipe the phone first so you have a fresh start.
 3. [Modify the FTF](http://forum.xda-developers.com/xperia-z2/general/4-4-4-creating-rooted-update-package-t2933155) to add root privileges, and prevent it from overwriting TA and PARTITION.
