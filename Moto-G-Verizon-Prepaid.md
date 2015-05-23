@@ -32,3 +32,4 @@ When you first boot the phone out of the box, the phone will prompt you to activ
 
 * [Reddit /r/Android - Verizon Moto G (1st Gen) for $20 on Best Buy Website](http://www.reddit.com/r/Android/comments/36laj7/verizon_moto_g_1st_gen_for_20_on_best_buy_website/)
   * [Reddit /r/MotoG - Rooting and Unlocking Verizon Moto G (1st Gen)](http://www.reddit.com/r/MotoG/comments/2pzef7/so_im_thinking_of_buying_a_first_gen_moto_g/cn2uhj5)
+* [The Android Soul - Downgrade XT1032 to Android 4.4.3](http://www.theandroidsoul.com/back-stockdowngrade-moto-g-xt1032-android-4-4-3-kitkat-firmware-2-63334/)
