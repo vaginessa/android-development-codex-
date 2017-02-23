@@ -7,6 +7,12 @@
 3. Install Custom ROMs
 4. Install Wolfson Audio Mod
 
+## Restore to Stock
+
+Use this odin image to restore back to stock:
+
+https://forum.xda-developers.com/showthread.php?t=1052813
+
 ## Install Custom Recovery
 
 First, use Odin or Heimdall to install a custom recovery on the phone. This custom recovery makes it possible to install superuser software and custom ROMs.
